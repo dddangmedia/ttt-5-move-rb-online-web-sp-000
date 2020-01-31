@@ -14,5 +14,9 @@ def input_to_index(move)
   move = move - 1
 end
 
+def move()
+  
+end
+
 
 
